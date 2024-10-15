@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://k4444r:postgres@cluster0.o1iih.mongodb.net/user_db?retryWrites=true&w=majority&appName=cluster0
